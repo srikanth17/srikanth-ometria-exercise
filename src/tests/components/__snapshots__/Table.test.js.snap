@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Table correctly 1`] = `
+<table
+  className="highlight"
+>
+  <thead>
+    <tr>
+      <th>
+        Name
+      </th>
+      <th>
+        Height
+      </th>
+      <th>
+        Gender
+      </th>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;
